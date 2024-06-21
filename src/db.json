@@ -1,0 +1,18 @@
+{
+  "submissions": [
+    {
+      "name": "tester1",
+      "email": "test@gmail.com",
+      "phone": "123456789",
+      "github_link": "testertenzin",
+      "stopwatch_time": "00:00:02"
+    },
+    {
+      "name": "tenzin",
+      "email": "tibetdelek1@gmail.com",
+      "phone": "123456782",
+      "github_link": "tenzindelek",
+      "stopwatch_time": "00:00:17"
+    }
+  ]
+}
