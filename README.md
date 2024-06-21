@@ -1,4 +1,14 @@
 # Slidely AI TASK2 OF CREATING A GOOGLE FORM WINDOW APP
+
+### Steps to run the server
+
+1. **install the dependencies:**
+   ```bash
+   npm i
+2. **run the server**
+    ```bash
+    npm start
+    
 output sc:
 1. ping
 <img width="1016" alt="image" src="https://github.com/TenzDelek/SlidelyAI-Backend-task2/assets/122612557/a533d630-16a5-4af4-97d5-d0fe2165218f">
