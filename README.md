@@ -10,3 +10,6 @@ and in the backend the read route will show
 <img width="1058" alt="image" src="https://github.com/TenzDelek/SlidelyAI-Backend-task2/assets/122612557/f8fb243b-f779-43d4-a62f-e08fe0516b53">
 - data from frontend .net
 <img width="1008" alt="image" src="https://github.com/TenzDelek/SlidelyAI-Frontend-task2/assets/122612557/cbd7888c-ef54-4b0e-9cd0-232d543313d4">
+
+and finally the update of the db.json when we input 
+<img width="840" alt="image" src="https://github.com/TenzDelek/SlidelyAI-Backend-task2/assets/122612557/d557833e-2301-413f-b912-229da43ac7e4">
